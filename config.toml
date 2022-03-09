@@ -44,14 +44,14 @@ theme = "DoIt"
       title = ""
       weight = 3
     [[menu.main]]
-        identifier = "showcase"
+        identifier = "tags"
         pre = ""
         post = ""
-        logo = ""
         name = "Artstation"
         url = "https://www.artstation.com/victoryluode"
         title = ""
         weight = 1
+
 # ··················································
 [params.header.title]
           # URL of the LOGO
