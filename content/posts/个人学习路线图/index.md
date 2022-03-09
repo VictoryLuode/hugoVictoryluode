@@ -6,4 +6,7 @@ featuredImage: "S3.jpg"
 
 lightgallery: true
 ---
-{{< youtube w7Ft2ymGmfc >}}
+> 加油，在有时间的时候更新一下，先暂时做一个原型
+>
+
+{{< youtube iMScY3hrbd0 >}}

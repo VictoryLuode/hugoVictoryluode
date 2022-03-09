@@ -31,11 +31,19 @@ theme = "DoIt"
     pre = ""
     # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
     post = ""
-    name = "博客 BLOG"
+    name = "BLOG"
     url = "/posts/"
     # 当你将鼠标悬停在此菜单链接上时, 将显示的标题
     title = "Post"
     weight = 1
+    [[menu.main]]
+      identifier = "about"
+      pre = ""
+      post = ""
+      name = "About"
+      url = "/about/"
+      title = ""
+      weight = 2
 # ··················································
 [params.header.title]
           # URL of the LOGO
@@ -62,13 +70,12 @@ theme = "DoIt"
   avatarURL = "avatar.webp"
 
   title = "VictoryLuode"
-  subtitle = "A Clean, Elegant but Advanced Hugo Theme"
+  subtitle = "即将毕业的学生仔"
 
   typeit = true
   social = true
 
-  disclaimer = "dasd"
-
+  disclaimer = "有时间我会把整理的有用信息放在下面"
 [params.social]
   Artstation = "VictoryLuode"
   twitter = "VictoryLuode"
