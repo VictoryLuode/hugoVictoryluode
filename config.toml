@@ -36,6 +36,7 @@ theme = "DoIt"
     title = "Post"
     weight = 2
     [[menu.main]]
+    
       identifier = "about"
       pre = ""
       post = ""
