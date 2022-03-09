@@ -20,7 +20,7 @@ theme = "DoIt"
     name = "VictoryLuode"
     email = "victoryluode@outlook.com"
     link = "https://www.artstation.com/victoryluode"
-    avatar = "image/avatar.webp"
+    avatar = "images/avatar.webp"
     gravatarEmail = "victoryluode@outlook.com"
 #··················································
 [menu]
@@ -34,7 +34,7 @@ theme = "DoIt"
     url = "/posts/"
     # 当你将鼠标悬停在此菜单链接上时, 将显示的标题
     title = "Post"
-    weight = 1
+    weight = 2
     [[menu.main]]
       identifier = "about"
       pre = ""
@@ -42,12 +42,21 @@ theme = "DoIt"
       name = "About"
       url = "/about/"
       title = ""
-      weight = 2
+      weight = 3
+    [[menu.main]]
+        identifier = "Artstation"
+        pre = ""
+        post = ""
+        logo = ""
+        name = "Artstation"
+        url = "https://www.artstation.com/victoryluode"
+        title = ""
+        weight = 1
 # ··················································
 [params.header.title]
           # URL of the LOGO
           # LOGO 的 URL
-          logo = "/image/V1.webp"
+          logo = "/images/V1.webp"
           # title name
           # 标题名称
           name = ""
@@ -66,7 +75,7 @@ theme = "DoIt"
   # Gravatar 邮箱, 用于优先在主页显示的头像
   gravatarEmail = ""
   # 主页显示头像的 URL
-  avatarURL = "/image/avatar.webp"
+  avatarURL = "/images/avatar.webp"
 
   title = "VictoryLuode"
   subtitle = "即将毕业的学生仔"
@@ -76,7 +85,8 @@ theme = "DoIt"
   social = true
 
 [params.social]
-  Artstation = "VictoryLuode"
+
+
   twitter = "VictoryLuode"
   Instagram = "victoryluode"
   Bilibili = "176090455"
@@ -85,8 +95,7 @@ theme = "DoIt"
   Weibo = "6430541796"
   Behance = "VictoryLuode"
   Email = "victoryluode@outlook.com"
-
-
+  Artstation = "VictoryLuode"
 [params.home.posts]
   enable = true
 # ··················································
