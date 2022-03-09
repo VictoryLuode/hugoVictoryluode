@@ -1,10 +1,5 @@
 {
-    "name": "DoIt Theme Documentation",
-    "short_name": "DoIt Docs",
-    "description": "The documentation site for Hugo DoIt Theme",
-    "start_url": "/",
-    "orientation": "portrait",
-    "display": "standalone",
+    "name": "",
     "short_name": "",
     "icons": [
         {

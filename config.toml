@@ -16,18 +16,7 @@ theme = "DoIt"
   # 网站默认主题 ("light", "dark", "black", "auto")
   defaultTheme = "dark"
   images = ["avatar.webp"]
-  enablePWA = true
-
-[params.header]
-    # desktop header mode ("fixed", "normal", "auto")
-    # 桌面端导航栏模式 ("fixed", "normal", "auto")
-    desktopMode = "fixed"
-    # mobile header mode ("fixed", "normal", "auto")
-    # 移动端导航栏模式 ("fixed", "normal", "auto")
-    mobileMode = "auto"
-    # theme change mode ("switch", "select")
-    # 主题切换模式 ("switch", "select")
-    themeChangeMode = "switch"
+  favicon = "favicon.ico"
 #··················································
 [author]
     name = "VictoryLuode"
@@ -95,7 +84,7 @@ theme = "DoIt"
 
 [params.home.posts]
   enable = true
-
+# ··················································
   [params.search]
     enable = true
     # 搜索引擎的类型 ("lunr", "algolia", "fuse")
@@ -134,13 +123,6 @@ theme = "DoIt"
         Facebook = true
         Linkedin = false
         Whatsapp = false
-        Pinterest = false
-        Tumblr = false
-        HackerNews = false
-        Reddit = false
-        VK = false
-        Buffer = false
-        Xing = false
         Line = true
         Instapaper = false
         Pocket = false
@@ -148,15 +130,6 @@ theme = "DoIt"
         Stumbleupon = false
         Flipboard = false
         Weibo = true
-        Renren = false
-        Myspace = false
-        Blogger = false
-        Baidu = false
-        Odnoklassniki = false
-        Evernote = false
-        Skype = false
-        Trello = false
-        Mix = false
         Telegram = true
 # ··················································
 [params.footer]
