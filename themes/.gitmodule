@@ -1,0 +1,3 @@
+[submodule "path_to_submodule"]
+  path = themes/DoIt
+  url = git://url-of-source/
