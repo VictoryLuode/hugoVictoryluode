@@ -72,8 +72,9 @@ theme = "DoIt"
   title = "VictoryLuode"
   subtitle = "即将毕业的学生仔"
   typeit = true
+
   disclaimer = "有时间我会把整理的有用信息放在下面"
-  
+
   social = true
 
 [params.social]
