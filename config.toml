@@ -1,19 +1,33 @@
 baseURL = "https://victoryluode.netlify.app/"
 # [en, zh-cn, fr, ...] 设置默认的语言
-defaultContentLanguage = "zh-cn"
+defaultContentLanguage = "en"
 # 网站语言, 仅在这里 CN 大写
-languageCode = "zh-CN"
+languageCode = "en"
 # 是否包括中日韩文字
 hasCJKLanguage = true
 # 网站标题
 title = "VictoryLuode"
-
 # 更改使用 Hugo 构建网站时使用的默认主题
 theme = "DoIt"
 
 [params]
   # DoIt 主题版本
   version = "0.2.X"
+  # 网站默认主题 ("light", "dark", "black", "auto")
+  defaultTheme = "black"
+  images = ["avatar.webp"]
+  enablePWA = true
+
+[params.header]
+    # desktop header mode ("fixed", "normal", "auto")
+    # 桌面端导航栏模式 ("fixed", "normal", "auto")
+    desktopMode = "fixed"
+    # mobile header mode ("fixed", "normal", "auto")
+    # 移动端导航栏模式 ("fixed", "normal", "auto")
+    mobileMode = "auto"
+    # theme change mode ("switch", "select")
+    # 主题切换模式 ("switch", "select")
+    themeChangeMode = "switch"
 #··················································
 [author]
     name = "VictoryLuode"
@@ -29,7 +43,7 @@ theme = "DoIt"
     pre = ""
     # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
     post = ""
-    name = "Post"
+    name = "博客 BLOG"
     url = "/posts/"
     # 当你将鼠标悬停在此菜单链接上时, 将显示的标题
     title = "Post"
