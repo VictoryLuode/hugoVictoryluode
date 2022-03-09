@@ -86,7 +86,6 @@ theme = "DoIt"
 
 [params.social]
 
-
   twitter = "VictoryLuode"
   Instagram = "victoryluode"
   Bilibili = "176090455"
@@ -96,6 +95,8 @@ theme = "DoIt"
   Behance = "VictoryLuode"
   Email = "victoryluode@outlook.com"
   Artstation = "VictoryLuode"
+
+
 [params.home.posts]
   enable = true
 # ··················································
