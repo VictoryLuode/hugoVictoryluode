@@ -1,10 +1,19 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>VictoryLuode</title>
-        <link>http://example.org/</link>
+        <link>https://victoryluode.netlify.app/</link>
         <description>VictoryLuode</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>victoryluode@outlook.com (VictoryLuode)</managingEditor>
-            <webMaster>victoryluode@outlook.com (VictoryLuode)</webMaster>
-            <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
-        </channel>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>victoryluode@outlook.com (VictoryLuode)</managingEditor>
+            <webMaster>victoryluode@outlook.com (VictoryLuode)</webMaster><lastBuildDate>Fri, 02 Aug 2019 11:04:49 &#43;0800</lastBuildDate>
+            <atom:link href="https://victoryluode.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>个人学习路线图</title>
+    <link>https://victoryluode.netlify.app/posts/%E4%B8%AA%E4%BA%BA%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF%E5%9B%BE/</link>
+    <pubDate>Fri, 02 Aug 2019 11:04:49 &#43;0800</pubDate><author>
+        <name>VictoryLuode</name>
+    </author><guid>https://victoryluode.netlify.app/posts/%E4%B8%AA%E4%BA%BA%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF%E5%9B%BE/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/S3.png" referrerpolicy="no-referrer">
+            </div>]]></description>
+</item></channel>
 </rss>
