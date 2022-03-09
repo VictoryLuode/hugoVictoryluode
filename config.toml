@@ -14,7 +14,7 @@ theme = "DoIt"
   # DoIt 主题版本
   version = "0.2.X"
   # 网站默认主题 ("light", "dark", "black", "auto")
-  defaultTheme = "light"
+  defaultTheme = "dark"
   images = ["avatar.webp"]
   enablePWA = true
 
