@@ -36,7 +36,7 @@ theme = "DoIt"
     title = "Post"
     weight = 2
     [[menu.main]]
-    
+
       identifier = "about"
       pre = ""
       post = ""
@@ -132,6 +132,7 @@ theme = "DoIt"
       ignoreLocation = false
       useExtendedSearch = false
       ignoreFieldNorm = false
+      
 # ··················································
 [params.footer]
   enable = true
