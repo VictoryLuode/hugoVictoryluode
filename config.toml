@@ -16,7 +16,6 @@ theme = "DoIt"
   # 网站默认主题 ("light", "dark", "black", "auto")
   defaultTheme = "dark"
   images = ["avatar.webp"]
-  favicon = "favicon.ico"
 #··················································
 [author]
     name = "VictoryLuode"
