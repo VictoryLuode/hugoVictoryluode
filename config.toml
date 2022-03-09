@@ -123,21 +123,6 @@ theme = "DoIt"
       useExtendedSearch = false
       ignoreFieldNorm = false
 # ··················································
-      [params.page.share]
-        enable = true
-        Twitter = true
-        Facebook = true
-        Linkedin = false
-        Whatsapp = false
-        Line = true
-        Instapaper = false
-        Pocket = false
-        Digg = false
-        Stumbleupon = false
-        Flipboard = false
-        Weibo = true
-        Telegram = true
-# ··················································
 [params.footer]
   enable = true
   # Custom content (HTML format is supported)
