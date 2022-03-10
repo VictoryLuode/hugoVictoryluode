@@ -44,14 +44,6 @@ theme = "DoIt-01"
       url = "/about/"
       title = ""
       weight = 3
-    [[menu.main]]
-        identifier = "tags"
-        pre = ""
-        post = ""
-        name = "Artstation"
-        url = "https://www.artstation.com/victoryluode"
-        title = ""
-        weight = 1
 
 # ··················································
 [params.header.title]
@@ -96,7 +88,7 @@ theme = "DoIt-01"
   Behance = "victoryluo38c9"
   Email = "victoryluode@outlook.com"
   Artstation = "VictoryLuode"
-  
+
 
 
 [params.home.posts]
