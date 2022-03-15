@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "9464966539d5650e",
+    "type": "split",
+    "children": [
+      {
+        "id": "21cc30d7dec629b0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "posts/罗德的学习路线图/index.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4aaf47247f87ef58",
+    "type": "split",
+    "children": [
+      {
+        "id": "a17b7de7b5a91638",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36fd6467ef27b08d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "12e0ed22014b823a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "e1bd7361ad09b4a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1b6358c4508354c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd300fede8071ae2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "posts/罗德的学习路线图/index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "21cc30d7dec629b0",
+  "lastOpenFiles": [
+    "posts/罗德的学习路线图/index.md",
+    "posts/罗德的学习路线图/krita_qck2POmF8p.png"
+  ]
+}
