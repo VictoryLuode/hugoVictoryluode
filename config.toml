@@ -86,7 +86,7 @@ theme = "DoIt-01"
   subtitle = "即将毕业的学生仔"
   typeit = true
 
-  disclaimer = "有时间我会把整理的有用信息放在下面"
+  disclaimer = "平时动态和个人作品均在以上链接中发布"
   social = true
 
 [params.social]
