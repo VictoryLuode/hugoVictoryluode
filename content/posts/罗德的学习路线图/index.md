@@ -36,10 +36,6 @@ lightgallery: true
 * [Instergram](https://www.instagram.com/)
 * [Weibo](https://weibo.com/)
 
-> 付费的教程在[Blender Market](https://blendermarket.com/)，[Gumorad](https://gumroad.com/) ，[Patreon](https://www.patreon.com/home)上均能找到，
-> 有能力建议购买正版教程，支持这些创作者提供的优秀学习资源
-
-
 ## 资源链接
 互联网上有十分多大优秀资源，我们需要的是一双发现它们的眼睛。
 
@@ -54,6 +50,9 @@ lightgallery: true
 	* [卡通渲染教程](https://www.youtube.com/watch?v=X8YkWdhty7I&t=6s) Blender风格化渲染教程
 * [CG Matter](https://www.youtube.com/channel/UCy1f4m64dwCwk8CBZ_vHfPg) 与 [Default Cube](https://www.youtube.com/c/DefaultCube) 研究程序化的大佬如果你对Blender的程序化感兴趣推荐看看他的视频
 
+> 付费的教程在[Blender Market](https://blendermarket.com/)，[Gumorad](https://gumroad.com/) ，[Patreon](https://www.patreon.com/home)上均能找到，
+> 有能力建议购买正版教程，支持这些创作者提供的优秀学习资源
+
 #### CG信息平台
 * [shenmi](https://space.bilibili.com/1309819?from=search&seid=14663990968482515656&spm_id_from=333.337.0.0) 接地气的CG播报
 * [InspirationTuts](https://www.youtube.com/c/InspirationTuts) 
@@ -62,5 +61,6 @@ lightgallery: true
 #### 其他合集
 * [CreativeShimp资源合集](https://www.creativeshrimp.com/resources.html) 
 * [Awesome-Blender](https://github.com/agmmnn/awesome-blender)
-* 
+
+
 {{< youtube iMScY3hrbd0 >}}
