@@ -6,18 +6,41 @@ featuredImage: "S3.jpg"
 
 lightgallery: true
 ---
-# 平台
-我目前自己的学习平台一般在Youtube上，同时在Twitter和Artstaion上学习其他艺术家作品。
+> [victoryluode.com](https://www.victoryluode.com) 是我个人的学习博客与作品展示地。
+> 
+> 这篇学习线路图算是一个我对我个人学习经历的十分全面的介绍，我会陆续更新，希望**能够帮助到大家，也感谢大家对我的支持。
+
+## 关于自学的一些想法
+在2019年下半年的时候，在油管四处漫游的我发现了Blender这个神奇的3D软件，当看到它能被大佬用来做各种炫酷的场景与角色的时候，我不禁心动地开始了第一个Blender教程：甜甜圈，从此之后一发不可收拾，不断地肝图，慢慢做到了现在这样。
+
+
+作为一个自学CG人，大多数在开始阶段都有**学习CG是否有必要去专门学校的想法**，最开始我也对此十分疑惑，但随着我在油管对Blender的不断深入学习，我对自学慢慢有了信心。而现在回头想关于学校的问题，这就自然迎刃而解了。
+
+> 我觉得在现在这个互联网如此发的时代，一切和电脑相关的最新信息都能在网上找到，其中就包括CG的学习信息。一个能否自学的关键就在于你在`互联网上寻找信息的能力`,这方面我自己是深有体会，我自己最开始的CG知识大部分都来源于Youtube，当我遇到很多小问题的时候，**通过Youtube搜索一般都能找到解决问题方案**。
+
+
+这里我想说的是，如果你在学校与自学之间徘徊，我推荐你**自学**
+
+>这里有一些文章值得参考，如果你还有该方面的疑惑推荐你查阅一下：
+>[Should I Go to Art School?](https://cgcookie.com/articles/should-i-go-to-art-school)CG Cookie的一篇关于是否有必要去科班学校学习的文章
+>[Don’t go to art school](https://medium.com/i-m-h-o/dont-go-to-art-school-138c5efd45e9#.1k0kxir2x)来自[Noah Bradley](https://medium.com/@noahbradley?source=post_page-----138c5efd45e9-----------------------------------)
+
+
+## 属于你自己的学习信息平台
+一个优秀的获取信息的平台对你来说是十分重要的，我目前学习平台在Youtube上，同时在Twitter和Artstaion上学习其他艺术家作品。
 * [Artstion](https://www.youtube.com/)
 * [Youtube](https://www.youtube.com/)
 * [Patreon](https://www.patreon.com/home)
 * [Bilibili](https://www.bilibili.com/)
 * [Twitter](https://twitter.com)
 * [Instergram](https://www.instagram.com/)
+* [Weibo](https://weibo.com/)
 
-> 付费的教程在[Blender Market](https://blendermarket.com/)，[Gumorad](https://gumroad.com/) ，[patreon](https://www.patreon.com/home)上均能找到
+> 付费的教程在[Blender Market](https://blendermarket.com/)，[Gumorad](https://gumroad.com/) ，[Patreon](https://www.patreon.com/home)上均能找到，
 > 有能力建议购买正版教程，支持这些创作者提供的优秀学习资源
 
+
+## 资源推荐
 ### Youtube频道
 * [Blender Guru](https://www.youtube.com/channel/UCOKHwx1VCdgnxwbjyb9Iu1g) 适合初学者与室内设计方向的教程，同时更新采访Podcast：
 	* [甜甜圈教程](https://www.youtube.com/watch?v=nIoXOplUvAw)Blender初学者几乎都知道的教程
@@ -28,19 +51,5 @@ lightgallery: true
 	* [3D扫描教程](https://www.youtube.com/watch?v=ZN8-tzqBLTs&list=PL2aDImegRwZGRrORe-D3OhpKl7ZCP3MUh) 教你如何扫描制作自己的模型
 	* [卡通渲染教程](https://www.youtube.com/watch?v=X8YkWdhty7I&t=6s) Blender风格化渲染教程
 * [CG Matter](https://www.youtube.com/channel/UCy1f4m64dwCwk8CBZ_vHfPg) 与 [Default Cube](https://www.youtube.com/c/DefaultCube) 研究程序化的大佬如果你对Blender的程序化感兴趣推荐看看他的视频
-*
-
-#### 几何节点与程序化材质
-#### 风格化
-* Dédouze
-
-
-## 信息
-* askNK
-* InsporationTuts
-* The CG Essentials
-* 
-> 在有时间的时候更新一下，先暂时做一个原型
->
 
 {{< youtube iMScY3hrbd0 >}}
