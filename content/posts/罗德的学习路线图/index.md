@@ -40,9 +40,11 @@ lightgallery: true
 > 有能力建议购买正版教程，支持这些创作者提供的优秀学习资源
 
 
-## 资源推荐
-### Youtube频道
-* [Blender Guru](https://www.youtube.com/channel/UCOKHwx1VCdgnxwbjyb9Iu1g) 适合初学者与室内设计方向的教程，同时更新采访Podcast：
+## 资源链接
+互联网上有十分多大优秀资源，我们需要的是一双发现它们的眼睛。
+
+#### Youtuber
+* [Blender Guru](https://www.youtube.com/channel/UCOKHwx1VCdgnxwbjyb9Iu1g) 适合初学者与室内设计方向的教程，同时更新采访Podcast
 	* [甜甜圈教程](https://www.youtube.com/watch?v=nIoXOplUvAw)Blender初学者几乎都知道的教程
 	* [废弃房屋教程](https://www.youtube.com/watch?v=1aNnERnHRZg&t=1142s)之前群活动`美国末日`的灵感来源，其侧重于环境艺术方向
 * [Gleb Alexandrov](https://www.youtube.com/c/GlebAlexandrov) 一个干货异常之多的Youtuber，涉及很多方面的知识，同时经营Creative Shimp，他对我的学习帮助很大，十分感谢这位大佬
@@ -52,4 +54,13 @@ lightgallery: true
 	* [卡通渲染教程](https://www.youtube.com/watch?v=X8YkWdhty7I&t=6s) Blender风格化渲染教程
 * [CG Matter](https://www.youtube.com/channel/UCy1f4m64dwCwk8CBZ_vHfPg) 与 [Default Cube](https://www.youtube.com/c/DefaultCube) 研究程序化的大佬如果你对Blender的程序化感兴趣推荐看看他的视频
 
+#### CG信息平台
+* [shenmi](https://space.bilibili.com/1309819?from=search&seid=14663990968482515656&spm_id_from=333.337.0.0) 接地气的CG播报
+* [InspirationTuts](https://www.youtube.com/c/InspirationTuts) 
+* [askNK](https://www.youtube.com/c/askNK) 
+
+#### 其他合集
+* [CreativeShimp资源合集](https://www.creativeshrimp.com/resources.html) 
+* [Awesome-Blender](https://github.com/agmmnn/awesome-blender)
+* 
 {{< youtube iMScY3hrbd0 >}}
