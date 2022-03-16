@@ -9,9 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "posts/罗德的学习路线图/index.md",
+            "file": "posts/罗德学习路线图/index.md",
             "mode": "source",
-            "source": false
+            "source": true
           }
         }
       }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/罗德的学习路线图/index.md",
+                "file": "posts/罗德学习路线图/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,6 +90,7 @@
   },
   "active": "21cc30d7dec629b0",
   "lastOpenFiles": [
+    "posts/罗德学习路线图/index.md",
     "posts/罗德的学习路线图/index.md",
     "posts/罗德的学习路线图/krita_qck2POmF8p.png"
   ]
