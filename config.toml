@@ -30,11 +30,24 @@ theme = "DoIt-01"
     pre = ""
     # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
     post = ""
-    name = "罗德学习路线图"
-    url = "/posts/罗德学习路线图/"
+    name = "关于自学CG的一些想法"
+    url = "/posts/关于学习CG的一些想法/"
     # 当你将鼠标悬停在此菜单链接上时, 将显示的标题
     title = ""
     weight = 1
+
+  [[menu.main]]
+    identifier = ""
+    # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
+    pre = ""
+    # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
+    post = ""
+    name = "学习之路2022"
+    url = "/posts/学习之路2022/"
+    # 当你将鼠标悬停在此菜单链接上时, 将显示的标题
+    title = "学习之路2022"
+    weight = 2
+
   [[menu.main]]
     identifier = "posts"
     # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
@@ -45,16 +58,17 @@ theme = "DoIt-01"
     url = "/posts/"
     # 当你将鼠标悬停在此菜单链接上时, 将显示的标题
     title = "Post"
-    weight = 2
-    [[menu.main]]
+    weight = 3
 
-      identifier = "about"
-      pre = ""
-      post = ""
-      name = "About"
-      url = "/about/"
-      title = ""
-      weight = 3
+  [[menu.main]]
+
+    identifier = "about"
+    pre = ""
+    post = ""
+    name = "About"
+    url = "/about/"
+    title = ""
+    weight = 4
 
 
 # ··················································
